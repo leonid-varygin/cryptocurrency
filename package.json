@@ -1,0 +1,22 @@
+{
+  "name": "cryptocurrency-scaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coinmarketcap-api": "^3.1.1",
+    "config": "^3.3.6",
+    "exmo-api": "^0.1.0",
+    "express": "^4.17.1",
+    "kucoin-node-api": "^1.2.2",
+    "mongoose": "^5.12.12",
+    "node-binance-api": "^0.12.5",
+    "nodemon": "^2.0.7",
+    "poloniex-api-node": "^2.0.2"
+  }
+}
